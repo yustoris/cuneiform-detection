@@ -7,27 +7,27 @@
                 "signs": [
                     [
                         {
-                            "sign": "I",
+                            "reading": "I",
                             "type": "Determination"
                         },
                         {
-                            "sign": "Am",
+                            "reading": "am",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "mi",
+                            "reading": "mi",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ḫa",
+                            "reading": "ḫa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "at",
+                            "reading": "at",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         }
                     ]
@@ -43,31 +43,31 @@
                 "signs": [
                     [
                         {
-                            "sign": "URU",
+                            "reading": "URU",
                             "type": "Determination"
                         },
                         {
-                            "sign": "Ki",
+                            "reading": "ki",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "iz",
+                            "reading": "iz",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "zu",
+                            "reading": "zu",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "wa",
+                            "reading": "wa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "at",
+                            "reading": "at",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         }
                     ]
@@ -79,32 +79,21 @@
         "number": "Vs. I 3",
         "transcription": [
             {
-                "index": "2",
-                "signs": [
-                    [
-                        {
-                            "sign": "x",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            },
-            {
                 "index": "3",
                 "signs": [
                     [
                         {
-                            "sign": "nu",
+                            "reading": "nu",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "za",
+                            "reading": "za",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "SÍSKUR",
+                            "reading": "SÍSKUR",
                             "type": "Sumerogram"
                         }
                     ]
@@ -120,27 +109,11 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            }
-        ]
-    },
-    {
-        "number": "Vs. I 5",
-        "transcription": [
-            {
-                "index": "5",
-                "signs": [
-                    [
-                        {
-                            "sign": "…",
+                            "reading": "an",
                             "type": "Hittite"
                         }
                     ]

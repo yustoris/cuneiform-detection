@@ -1,14 +1,5 @@
 [
     {
-        "number": "1'",
-        "transcription": [
-            {
-                "index": 1,
-                "signs": []
-            }
-        ]
-    },
-    {
         "number": "2'",
         "transcription": [
             {
@@ -16,15 +7,15 @@
                 "signs": [
                     [
                         {
-                            "sign": "zi",
+                            "reading": "zi",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ik",
+                            "reading": "ik",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "pát",
+                            "reading": "pát",
                             "type": "Hittite"
                         }
                     ]
@@ -40,38 +31,23 @@
                 "signs": [
                     [
                         {
-                            "sign": "ma",
+                            "reading": "ma",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aḫ",
+                            "reading": "aḫ",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ḫa",
+                            "reading": "ḫa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "x",
+                            "reading": "an",
                             "type": "Hittite"
                         }
                     ]
                 ]
-            }
-        ]
-    },
-    {
-        "number": "4'",
-        "transcription": [
-            {
-                "index": 4,
-                "signs": []
             }
         ]
     }

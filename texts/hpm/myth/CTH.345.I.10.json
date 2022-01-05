@@ -7,40 +7,29 @@
                 "signs": [
                     [
                         {
-                            "sign": "a",
+                            "reading": "a",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "i",
+                            "reading": "i",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ya",
+                            "reading": "ya",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ni",
+                            "reading": "ni",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "iš",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            },
-            {
-                "index": 2,
-                "signs": [
-                    [
-                        {
-                            "sign": "x",
+                            "reading": "iš",
                             "type": "Hittite"
                         }
                     ]
@@ -56,25 +45,25 @@
                 "signs": [
                     [
                         {
-                            "sign": "ta",
+                            "reading": "ta",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aš",
+                            "reading": "aš",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "ar",
+                            "reading": "ar",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "kam",
+                            "reading": "kam",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "mi",
+                            "reading": "mi",
                             "type": "Hittite"
                         }
                     ]
@@ -90,15 +79,15 @@
                 "signs": [
                     [
                         {
-                            "sign": "e",
+                            "reading": "e",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "re",
+                            "reading": "re",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "er",
+                            "reading": "er",
                             "type": "Hittite"
                         }
                     ]
@@ -109,11 +98,11 @@
                 "signs": [
                     [
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         }
                     ]
@@ -129,21 +118,21 @@
                 "signs": [
                     [
                         {
-                            "sign": "ar",
+                            "reading": "ar",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ḫa",
+                            "reading": "ḫa",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "ne",
+                            "reading": "ne",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ya",
+                            "reading": "ya",
                             "type": "Hittite"
                         }
                     ]
@@ -155,23 +144,19 @@
         "number": "5'",
         "transcription": [
             {
-                "index": 7,
-                "signs": []
-            },
-            {
                 "index": 8,
                 "signs": [
                     [
                         {
-                            "sign": "nu",
+                            "reading": "nu",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "za",
+                            "reading": "za",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "kán",
+                            "reading": "kán",
                             "type": "Hittite"
                         }
                     ]
@@ -187,27 +172,11 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "in",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            }
-        ]
-    },
-    {
-        "number": "7'",
-        "transcription": [
-            {
-                "index": 10,
-                "signs": [
-                    [
-                        {
-                            "sign": "x",
+                            "reading": "in",
                             "type": "Hittite"
                         }
                     ]

@@ -7,19 +7,19 @@
                 "signs": [
                     [
                         {
-                            "sign": "ḫa",
+                            "reading": "ḫa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aš",
+                            "reading": "aš",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ši",
+                            "reading": "ši",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ik",
+                            "reading": "ik",
                             "type": "Hittite"
                         }
                     ]
@@ -35,21 +35,21 @@
                 "signs": [
                     [
                         {
-                            "sign": "aš",
+                            "reading": "aš",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "ÍD",
+                            "reading": "ÍD",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "MEŠ",
+                            "reading": "MEŠ",
                             "type": "Determination"
                         },
                         {
-                            "sign": "aš",
+                            "reading": "aš",
                             "type": "Hittite"
                         }
                     ]
@@ -65,33 +65,29 @@
                 "signs": [
                     [
                         {
-                            "sign": "at",
+                            "reading": "at",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "tén",
+                            "reading": "tén",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "e",
+                            "reading": "e",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "eš",
+                            "reading": "eš",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "tén",
+                            "reading": "tén",
                             "type": "Hittite"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "4",
-                "signs": []
             }
         ]
     },
@@ -99,41 +95,33 @@
         "number": "4'",
         "transcription": [
             {
-                "index": "4",
-                "signs": []
-            },
-            {
                 "index": "5",
                 "signs": [
                     [
                         {
-                            "sign": "nam",
+                            "reading": "nam",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ma",
+                            "reading": "ma",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "az",
+                            "reading": "az",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "UZU",
+                            "reading": "UZU",
                             "type": "Determination"
                         },
                         {
-                            "sign": "GÚ",
+                            "reading": "GÚ",
                             "type": "Sumerogram"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "6",
-                "signs": []
             }
         ]
     },
@@ -141,52 +129,41 @@
         "number": "5'",
         "transcription": [
             {
-                "index": "6",
-                "signs": [
-                    [
-                        {
-                            "sign": "x",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            },
-            {
                 "index": "7",
                 "signs": [
                     [
                         {
-                            "sign": "LÚ",
+                            "reading": "LÚ",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aš",
+                            "reading": "aš",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ma",
+                            "reading": "ma",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "za",
+                            "reading": "za",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "LÚ",
+                            "reading": "LÚ",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         }
                     ]
@@ -202,51 +179,39 @@
                 "signs": [
                     [
                         {
-                            "sign": "ku",
+                            "reading": "ku",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "e",
+                            "reading": "e",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "el",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "*",
-                            "type": "Hittite"
-                        },
-                        {
-                            "sign": "GU@4",
-                            "type": "Sumerogram"
-                        },
-                        {
-                            "sign": "*",
-                            "type": "Hittite"
-                        },
-                        {
-                            "sign": "MAḪ",
-                            "type": "Sumerogram"
-                        },
-                        {
-                            "sign": "aš",
+                            "reading": "el",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "da",
+                            "reading": "GU@4",
+                            "type": "Sumerogram"
+                        },
+                        {
+                            "reading": "MAḪ",
+                            "type": "Sumerogram"
+                        },
+                        {
+                            "reading": "aš",
+                            "type": "Hittite"
+                        }
+                    ],
+                    [
+                        {
+                            "reading": "da",
                             "type": "Hittite"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "9",
-                "signs": []
             }
         ]
     },
@@ -254,47 +219,43 @@
         "number": "7'",
         "transcription": [
             {
-                "index": "9",
-                "signs": []
-            },
-            {
                 "index": "10",
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aš",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "SAG",
-                            "type": "Sumerogram"
-                        },
-                        {
-                            "sign": "DU",
-                            "type": "Sumerogram"
-                        },
-                        {
-                            "sign": "aš",
-                            "type": "Hittite"
-                        },
-                        {
-                            "sign": "ma",
+                            "reading": "aš",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "SAG",
+                            "reading": "SAG",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "DU",
+                            "reading": "DU",
+                            "type": "Sumerogram"
+                        },
+                        {
+                            "reading": "aš",
+                            "type": "Hittite"
+                        },
+                        {
+                            "reading": "ma",
+                            "type": "Hittite"
+                        }
+                    ],
+                    [
+                        {
+                            "reading": "SAG",
+                            "type": "Sumerogram"
+                        },
+                        {
+                            "reading": "DU",
                             "type": "Sumerogram"
                         }
                     ]
@@ -310,37 +271,31 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "UZU",
+                            "reading": "UZU",
                             "type": "Determination"
                         },
                         {
-                            "sign": "ḫu",
+                            "reading": "ḫu",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "wa",
+                            "reading": "wa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ar",
+                            "reading": "ar",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "la",
+                            "reading": "la",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "a",
+                            "reading": "a",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         }
                     ]
@@ -356,21 +311,21 @@
                 "signs": [
                     [
                         {
-                            "sign": "EGIR",
+                            "reading": "EGIR",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "ḫar",
+                            "reading": "ḫar",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "du",
+                            "reading": "du",
                             "type": "Hittite"
                         }
                     ]
@@ -386,36 +341,27 @@
                 "signs": [
                     [
                         {
-                            "sign": "a",
+                            "reading": "a",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ra",
+                            "reading": "ra",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aḫ",
+                            "reading": "aḫ",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "zé",
+                            "reading": "zé",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         }
                     ]
                 ]
-            }
-        ]
-    },
-    {
-        "number": "11'",
-        "transcription": [
-            {
-                "index": "14",
-                "signs": []
             }
         ]
     }

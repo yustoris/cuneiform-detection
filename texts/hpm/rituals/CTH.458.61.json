@@ -1,14 +1,5 @@
 [
     {
-        "number": "lk. Kol. 1'",
-        "transcription": [
-            {
-                "index": "1",
-                "signs": []
-            }
-        ]
-    },
-    {
         "number": "lk. Kol. 2'",
         "transcription": [
             {
@@ -16,7 +7,7 @@
                 "signs": [
                     [
                         {
-                            "sign": "mi",
+                            "reading": "mi",
                             "type": "Hittite"
                         }
                     ]
@@ -32,29 +23,23 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "KUŠ",
+                            "reading": "KUŠ",
                             "type": "Determination"
                         },
                         {
-                            "sign": "NÍG",
+                            "reading": "NÍG",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "BÀR",
+                            "reading": "BÀR",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "ḪI",
+                            "reading": "ḪI",
                             "type": "Determination"
                         },
                         {
-                            "sign": "A",
+                            "reading": "A",
                             "type": "Determination"
                         }
                     ]
@@ -70,33 +55,33 @@
                 "signs": [
                     [
                         {
-                            "sign": "kat",
+                            "reading": "kat",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ta",
+                            "reading": "ta",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "iš",
+                            "reading": "iš",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "pa",
+                            "reading": "pa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ar",
+                            "reading": "ar",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ḫi",
+                            "reading": "ḫi",
                             "type": "Hittite"
                         }
                     ]
@@ -112,23 +97,23 @@
                 "signs": [
                     [
                         {
-                            "sign": "iš",
+                            "reading": "iš",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "pa",
+                            "reading": "pa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ra",
+                            "reading": "ra",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aḫ",
+                            "reading": "aḫ",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ḫi",
+                            "reading": "ḫi",
                             "type": "Hittite"
                         }
                     ]
@@ -144,33 +129,33 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ar",
+                            "reading": "ar",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ga",
+                            "reading": "ga",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "a",
+                            "reading": "a",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ra",
+                            "reading": "ra",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ta",
+                            "reading": "ta",
                             "type": "Hittite"
                         }
                     ]
@@ -186,27 +171,11 @@
                 "signs": [
                     [
                         {
-                            "sign": "ar",
+                            "reading": "ar",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ta",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            }
-        ]
-    },
-    {
-        "number": "r. Kol. 1'",
-        "transcription": [
-            {
-                "index": "7",
-                "signs": [
-                    [
-                        {
-                            "sign": "x",
+                            "reading": "ta",
                             "type": "Hittite"
                         }
                     ]
@@ -222,17 +191,17 @@
                 "signs": [
                     [
                         {
-                            "sign": "nu",
+                            "reading": "nu",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ni",
+                            "reading": "ni",
                             "type": "Hittite"
                         }
                     ]
@@ -248,27 +217,23 @@
                 "signs": [
                     [
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "at",
+                            "reading": "at",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "za",
+                            "reading": "za",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "kán",
+                            "reading": "kán",
                             "type": "Hittite"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "10",
-                "signs": []
             }
         ]
     },
@@ -280,17 +245,17 @@
                 "signs": [
                     [
                         {
-                            "sign": "KA×U",
+                            "reading": "KA×U",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "i",
+                            "reading": "i",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         }
                     ]
@@ -306,32 +271,21 @@
                 "signs": [
                     [
                         {
-                            "sign": "nu",
+                            "reading": "nu",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "me",
+                            "reading": "me",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ma",
+                            "reading": "ma",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "i",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            },
-            {
-                "index": "12",
-                "signs": [
-                    [
-                        {
-                            "sign": "x",
+                            "reading": "i",
                             "type": "Hittite"
                         }
                     ]
@@ -347,23 +301,19 @@
                 "signs": [
                     [
                         {
-                            "sign": "UZU",
+                            "reading": "UZU",
                             "type": "Determination"
                         },
                         {
-                            "sign": "EME",
+                            "reading": "EME",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "ŠU",
+                            "reading": "ŠU",
                             "type": "Akkadogram"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "13",
-                "signs": []
             }
         ]
     },
@@ -375,38 +325,29 @@
                 "signs": [
                     [
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "da",
+                            "reading": "da",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "QA",
+                            "reading": "QA",
                             "type": "Akkadogram"
                         },
                         {
-                            "sign": "TAM",
+                            "reading": "TAM",
                             "type": "Akkadogram"
                         },
                         {
-                            "sign": "MA",
+                            "reading": "MA",
                             "type": "Akkadogram"
                         }
                     ]
                 ]
-            }
-        ]
-    },
-    {
-        "number": "r. Kol. 8'",
-        "transcription": [
-            {
-                "index": "14",
-                "signs": []
             }
         ]
     }

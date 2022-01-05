@@ -7,11 +7,11 @@
                 "signs": [
                     [
                         {
-                            "sign": "nu",
+                            "reading": "nu",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "˹kán˺",
+                            "reading": "kán",
                             "type": "Hittite"
                         }
                     ]
@@ -27,42 +27,23 @@
                 "signs": [
                     [
                         {
-                            "sign": "DUG",
+                            "reading": "DUG",
                             "type": "Determination"
                         },
                         {
-                            "sign": "KU",
+                            "reading": "KU",
                             "type": "Akkadogram"
                         },
                         {
-                            "sign": "KU",
+                            "reading": "KU",
                             "type": "Akkadogram"
                         },
                         {
-                            "sign": "˹UB",
+                            "reading": "UB",
                             "type": "Akkadogram"
-                        },
-                        {
-                            "sign": "˺",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "x",
-                            "type": "Hittite"
                         }
                     ]
                 ]
-            }
-        ]
-    },
-    {
-        "number": "Vs. ? II 2'",
-        "transcription": [
-            {
-                "index": "3",
-                "signs": []
             }
         ]
     },
@@ -74,36 +55,14 @@
                 "signs": [
                     [
                         {
-                            "sign": "Ù",
+                            "reading": "Ù",
                             "type": "Akkadogram"
                         }
                     ],
                     [
                         {
-                            "sign": "ŠA",
+                            "reading": "ŠA",
                             "type": "Akkadogram"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "x",
-                            "type": "Hittite"
-                        }
-                    ]
-                ]
-            }
-        ]
-    },
-    {
-        "number": "Vs. ? II 4'",
-        "transcription": [
-            {
-                "index": "4",
-                "signs": [
-                    [
-                        {
-                            "sign": "…",
-                            "type": "Hittite"
                         }
                     ]
                 ]
@@ -118,11 +77,11 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ri",
+                            "reading": "ri",
                             "type": "Hittite"
                         }
                     ]
@@ -138,25 +97,25 @@
                 "signs": [
                     [
                         {
-                            "sign": "ŠA",
+                            "reading": "ŠA",
                             "type": "Akkadogram"
                         }
                     ],
                     [
                         {
-                            "sign": "ma",
+                            "reading": "ma",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "a",
+                            "reading": "a",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         }
                     ]
@@ -172,53 +131,53 @@
                 "signs": [
                     [
                         {
-                            "sign": "SÍG",
+                            "reading": "SÍG",
                             "type": "Sumerogram"
                         }
                     ],
                     [
                         {
-                            "sign": "GE@6",
+                            "reading": "GE@6",
                             "type": "Sumerogram"
                         }
                     ],
                     [
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "da",
+                            "reading": "da",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "ḫu",
+                            "reading": "ḫu",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "u",
+                            "reading": "u",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "la",
+                            "reading": "la",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "li",
+                            "reading": "li",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ia",
+                            "reading": "ia",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "az",
+                            "reading": "az",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "zi",
+                            "reading": "zi",
                             "type": "Hittite"
                         }
                     ]
@@ -234,29 +193,29 @@
                 "signs": [
                     [
                         {
-                            "sign": "UZU",
+                            "reading": "UZU",
                             "type": "Determination"
                         },
                         {
-                            "sign": "GÚ",
+                            "reading": "GÚ",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "iš",
+                            "reading": "iš",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ši",
+                            "reading": "ši",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "da",
+                            "reading": "da",
                             "type": "Hittite"
                         }
                     ]
@@ -268,25 +227,21 @@
         "number": "Rs. ? IV 5",
         "transcription": [
             {
-                "index": "8",
-                "signs": []
-            },
-            {
                 "index": "9",
                 "signs": [
                     [
                         {
-                            "sign": "SIG@5",
+                            "reading": "SIG@5",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "ri",
+                            "reading": "ri",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "u",
+                            "reading": "u",
                             "type": "Hittite"
                         }
                     ]
@@ -297,37 +252,37 @@
                 "signs": [
                     [
                         {
-                            "sign": "ma",
+                            "reading": "ma",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "a",
+                            "reading": "a",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ma",
+                            "reading": "ma",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aš",
+                            "reading": "aš",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "a",
+                            "reading": "a",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "pé",
+                            "reading": "pé",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ez",
+                            "reading": "ez",
                             "type": "Hittite"
                         }
                     ]
@@ -339,53 +294,43 @@
         "number": "Rs. ? IV 6",
         "transcription": [
             {
-                "index": "10",
-                "signs": []
-            },
-            {
                 "index": "11",
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "ki",
+                            "type": "Hittite"
+                        },
+                        {
+                            "reading": "i",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "ki",
+                            "reading": "wa",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "i",
+                            "reading": "aš",
+                            "type": "Hittite"
+                        },
+                        {
+                            "reading": "ši",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "wa",
+                            "reading": "da",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aš",
+                            "reading": "a",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ši",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "da",
-                            "type": "Hittite"
-                        },
-                        {
-                            "sign": "a",
-                            "type": "Hittite"
-                        },
-                        {
-                            "sign": "i",
+                            "reading": "i",
                             "type": "Hittite"
                         }
                     ]
@@ -397,45 +342,41 @@
         "number": "Rs. ? IV 7",
         "transcription": [
             {
-                "index": "12",
-                "signs": []
-            },
-            {
                 "index": "13",
                 "signs": [
                     [
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "kán",
+                            "reading": "kán",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "A",
+                            "reading": "A",
                             "type": "Akkadogram"
                         },
                         {
-                            "sign": "NA",
+                            "reading": "NA",
                             "type": "Akkadogram"
                         }
                     ],
                     [
                         {
-                            "sign": "SÍG",
+                            "reading": "SÍG",
                             "type": "Sumerogram"
                         }
                     ],
                     [
                         {
-                            "sign": "GE@6",
+                            "reading": "GE@6",
                             "type": "Sumerogram"
                         }
                     ]
@@ -447,41 +388,37 @@
         "number": "Rs. ? IV 8",
         "transcription": [
             {
-                "index": "13",
-                "signs": []
-            },
-            {
                 "index": "14",
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "kán",
+                            "reading": "kán",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "tu",
+                            "reading": "tu",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "uḫ",
+                            "reading": "uḫ",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ši",
+                            "reading": "ši",
                             "type": "Hittite"
                         }
                     ]
@@ -497,11 +434,7 @@
                 "signs": [
                     [
                         {
-                            "sign": "...",
-                            "type": "Hittite"
-                        },
-                        {
-                            "sign": "zi",
+                            "reading": "zi",
                             "type": "Hittite"
                         }
                     ]
@@ -512,21 +445,21 @@
                 "signs": [
                     [
                         {
-                            "sign": "na",
+                            "reading": "na",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "aš",
+                            "reading": "aš",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "SIG@5",
+                            "reading": "SIG@5",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "ri",
+                            "reading": "ri",
                             "type": "Hittite"
                         }
                     ]
@@ -538,25 +471,21 @@
         "number": "Rs. ? IV 10",
         "transcription": [
             {
-                "index": "16",
-                "signs": []
-            },
-            {
                 "index": "17",
                 "signs": [
                     [
                         {
-                            "sign": "nu",
+                            "reading": "nu",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "EGIR",
+                            "reading": "EGIR",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "ŠU",
+                            "reading": "ŠU",
                             "type": "Akkadogram"
                         }
                     ]
@@ -568,48 +497,25 @@
         "number": "Rs. ? IV 11",
         "transcription": [
             {
-                "index": "17",
-                "signs": []
-            },
-            {
                 "index": "18",
                 "signs": [
                     [
                         {
-                            "sign": "x",
-                            "type": "Hittite"
-                        }
-                    ],
-                    [
-                        {
-                            "sign": "A",
+                            "reading": "A",
                             "type": "Akkadogram"
                         },
                         {
-                            "sign": "NA",
+                            "reading": "NA",
                             "type": "Akkadogram"
                         }
                     ],
                     [
                         {
-                            "sign": "SÍG",
+                            "reading": "SÍG",
                             "type": "Sumerogram"
                         }
                     ]
                 ]
-            }
-        ]
-    },
-    {
-        "number": "Rs. ? IV 12",
-        "transcription": [
-            {
-                "index": "18",
-                "signs": []
-            },
-            {
-                "index": "19",
-                "signs": []
             }
         ]
     }

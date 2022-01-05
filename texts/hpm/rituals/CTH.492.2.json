@@ -7,25 +7,25 @@
                 "signs": [
                     [
                         {
-                            "sign": "NA4",
+                            "reading": "NA@4",
                             "type": "Determination"
                         },
                         {
-                            "sign": "LIBIR",
+                            "reading": "LIBIR",
                             "type": "Sumerogram"
                         },
                         {
-                            "sign": "RA",
+                            "reading": "RA",
                             "type": "Akkadogram"
                         }
                     ],
                     [
                         {
-                            "sign": "ŠI",
+                            "reading": "ŠI",
                             "type": "Akkadogram"
                         },
                         {
-                            "sign": "BU",
+                            "reading": "BU",
                             "type": "Akkadogram"
                         }
                     ]
@@ -41,41 +41,33 @@
                 "signs": [
                     [
                         {
-                            "sign": "...",
+                            "reading": "ri",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ri",
-                            "type": "Hittite"
-                        },
-                        {
-                            "sign": "in",
+                            "reading": "in",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "ti",
+                            "reading": "ti",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "ia",
+                            "reading": "ia",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "an",
+                            "reading": "an",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "zi",
+                            "reading": "zi",
                             "type": "Hittite"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "3",
-                "signs": []
             }
         ]
     },
@@ -87,25 +79,21 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "az",
+                            "reading": "az",
                             "type": "Hittite"
                         }
                     ],
                     [
                         {
-                            "sign": "BAL",
+                            "reading": "BAL",
                             "type": "Sumerogram"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "5",
-                "signs": []
             }
         ]
     },
@@ -117,19 +105,15 @@
                 "signs": [
                     [
                         {
-                            "sign": "x",
+                            "reading": "UNK",
                             "type": "Hittite"
                         },
                         {
-                            "sign": "zi",
+                            "reading": "zi",
                             "type": "Hittite"
                         }
                     ]
                 ]
-            },
-            {
-                "index": "7",
-                "signs": []
             }
         ]
     }
