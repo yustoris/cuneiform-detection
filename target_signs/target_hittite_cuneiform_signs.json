@@ -2968,12 +2968,17 @@
     "meszl_number": "221",
     "readings": [
       {
-        "count": 60,
+        "count": 83,
+        "reading": "ŠUM",
+        "type": "Sumerogram"
+      },
+      {
+        "count": 33,
         "reading": "šum",
         "type": "Hittite"
       },
       {
-        "count": 60,
+        "count": 8,
         "reading": "TAG",
         "type": "Sumerogram"
       }
@@ -3074,7 +3079,7 @@
       }
     ]
   },
-  "TUL2": {
+  "TÚL": {
     "meszl_number": "786",
     "readings": [
       {
@@ -3618,7 +3623,7 @@
     "meszl_number": "259",
     "readings": [
       {
-        "count": 59,
+        "count": 61,
         "reading": "zé",
         "type": "Hittite"
       },
@@ -3825,16 +3830,6 @@
       {
         "count": 330,
         "reading": "ŠÀ",
-        "type": "Sumerogram"
-      }
-    ]
-  },
-  "ŠUM": {
-    "meszl_number": "869",
-    "readings": [
-      {
-        "count": 221,
-        "reading": "ŠUM",
         "type": "Sumerogram"
       }
     ]
